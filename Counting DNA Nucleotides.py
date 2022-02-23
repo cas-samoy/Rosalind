@@ -6,7 +6,6 @@ dna_seq = input("\nEnter DNA sequence: ")
 
 
 def get_base_counts(dna):
-
     counts = {'A': 0,
               'C': 0,
               'G': 0,
